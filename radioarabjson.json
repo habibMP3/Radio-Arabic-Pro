@@ -1,16 +1,16 @@
 {
   "Ads": [
     {
-      "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"STARAPP",
-      "main_ads_banner": "890388199652139_890390056318620",
-      "main_ads_intertitial":"890388199652139_890390192985273",
-      "backup_ads_banner":"null",
-      "backup_ads_intertitial":"null",
-      "open_app_ads":"test-id",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-8081044835861336/6236421738",
+      "main_ads_intertitial":"ca-app-pub-8081044835861336/9908073435",
+      "backup_ads_banner":"1e77fa0daa5f8187",
+      "backup_ads_intertitial":"88e704ab2eb61f74",
+      "open_app_ads":"ca-app-pub-8081044835861336/6132787440",
       "interval_intertitial": 5,
-      "initialize_sdk":"null",
-      "initialize_sdk_backup_ads":"207210920",
+      "initialize_sdk":"ca-app-pub-8081044835861336~5059071438",
+      "initialize_sdk_backup_ads":"null",
       "high_paying_keyword_1": "Insurance",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -55,7 +55,7 @@
       "id_album": 6,
       "author": "Hamza Namira",
       "album_name": "Top Album Hamza Namira",
-      "image_link": "https://ia600700.us.archive.org/9/items/hamzah-namira/hamzah%20namira.jpg"
+      "image_link": "https://ia800600.us.archive.org/2/items/hamza-namira-ft-habib-belk-al-ayta/hamza-namira.png"
     }
   ],
   "Data" : [
@@ -181,8 +181,8 @@
     {
       "id_audio": 18,
       "id_album": 4,
-      "title": "arabia",
-      "audio_file": "https://ia600401.us.archive.org/11/items/hamza-namira-ft.-isam-b-before-the-dawn/HamzaNamira%20Saheb%20ElSaadah.mp3",
+      "title": "el-hayah",
+      "audio_file": "https://ia800600.us.archive.org/2/items/hamza-namira-ft-habib-belk-al-ayta/hamza-namira-reyah-el-hayah.mp3",
       "lyrics": "<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
     }, 
     {
